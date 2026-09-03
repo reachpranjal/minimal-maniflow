@@ -32,6 +32,4 @@ bash scripts/collect_data.sh --n_episodes 2000 --out dataset/data.zarr
 
 Closed-loop inference with different obstacle density varying from obstacle-free to 5 obstacles.
 
-![](./assets/gifs/output_obs_00.gif)
-![](./assets/gifs/output_obs_02.gif)
-![](./assets/gifs/output_obs_05.gif)
+![](./assets/output.gif)
